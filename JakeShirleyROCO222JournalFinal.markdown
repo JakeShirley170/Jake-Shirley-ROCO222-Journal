@@ -147,7 +147,7 @@ The image to the right is our final and complete design for the shaft including 
 
 #### **Conclusion**
 
-To conclude I really enjoyed this part of the LAB as I found the 3D Printing and testing side to the motor really interesting. Looking back on the lab and what I acheived I would consider a better design for the mount/stand of the motor. As our design only allowed tow magnets to be close to the coil and shaft. I fI was doing this again I would make the mount for the magnets round so the curve round the coils and therefore making the magnetic field created by the voltage a lot stronger.
+To conclude I really enjoyed this part of the LAB as I found the 3D Printing and testing side to the motor really interesting. Looking back on the lab and what I acheived I would consider a better design for the mount/stand of the motor. As our design only allowed two magnets to be close to the coil and shaft. If I was doing this again I would make the mount for the magnets round so the curve round the coils and therefore making the magnetic field created by the voltage a lot stronger.
 
 ___
 
@@ -286,8 +286,10 @@ to programme it to run in 4 modes; Full-step, Double-step, Half-step and Microst
 We used the Arduino and Arduino shield as the microcontroller required to do
 this.
 
-<img src="https://github.com/JakeShirley170/Jake-Shirley-ROCO222-Journal/blob/master/images/stepper2.jpg?raw=true" alt="alt text" width="250" height="250">	
+<img src="https://github.com/JakeShirley170/Jake-Shirley-ROCO222-Journal/blob/master/images/stepper2.jpg?raw=true" alt="alt text" width="250" height="250">
+	
 #### **What is a Stepper Motor?**
+
 A Stepper Motor is a synchronous
 electric motor that converts mechanical
 rotations and positions from digital
@@ -307,7 +309,9 @@ may be required on a factory
 production line. Although in that case however a larger more powerful motor
 may be required on a factory
 production line.
+
 ![](https://github.com/JakeShirley170/Jake-Shirley-ROCO222-Journal/blob/master/images/stepper.gif?raw=true)
+
 #### **How does a Stepper Motor work?** 
  
 In order for the stepper motor to
@@ -798,6 +802,7 @@ void loop()
 ```
 
 #### **Pictures**
+
 <img src="
 https://github.com/JakeShirley170/Jake-Shirley-ROCO222-Journal/blob/master/images/IMG_0434.JPG?raw=true" alt="alt text" width="300" height="250">
 <img src="https://github.com/JakeShirley170/Jake-Shirley-ROCO222-Journal/blob/master/images/IMG_0432.JPG?raw=true" alt="alt text" width="300" height="250">
